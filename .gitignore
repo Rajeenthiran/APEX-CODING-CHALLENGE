@@ -1,0 +1,48 @@
+# Salesforce DX
+
+.sfdx/
+.localdevserver/
+deploy/
+coverage/
+test-result/
+tools/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Salesforce Auth Files
+*.json
+
+# Temporary Files
+tmp/
+temp/
+
+# Package Directories
+unpackaged/
+
+# Jest
+jest-stare/
+coverage/
+
+# PMD
+.pmd/
+
+# ESLint
+.eslintcache
+
+# Environment Files
+.env
+.env.local
+
+# Salesforce CLI
+sf.zip
